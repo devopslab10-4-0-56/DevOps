@@ -1,12 +1,15 @@
-Required skills 
+######################
+## Required skills  ##
+######################
+
 1) Automation tools
-                        -
+                        -Maven
 
 2) CI/CD tools
                         -Jenkins                         
 
 3) Testing Tools   
-                        -
+                        -selenium
 
 4) Cloud Services  
                          -amazon web services
@@ -16,7 +19,15 @@ Required skills
                          -python 
                          -xml
                          -sql
- Monitorning tools 
+ 6) Monitorning tools 
                          -splunk
                          -nagios
                          
+
+
+
+
+Ansible - Written in Python, agent-less, utilizes an imperative (rather than declarative) approach.
+    
+    Chef - Written in Ruby, also relies on an imperative config management approach.
+    Puppet - Relies on a declarative config management approach, using a domain-specific language and an agent/master architecture.
